@@ -1,0 +1,11 @@
+4th	1
+5	9
+8	3
+OVERMILLION	1
+first	1
+line	3
+nine	2
+second	1
+seventh	2
+sixth	1
+third	1
